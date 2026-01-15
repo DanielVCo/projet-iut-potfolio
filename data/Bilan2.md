@@ -1,0 +1,25 @@
+## Bilan personnel 2ème année
+
+# Présentation
+Voici une 2ème année de complété en BUT Science des données. Celle-ci est passé encore plus vite que la 1ère en raison de période riches en travaux et d’une grande nouveauté pour moi: le stage en entreprise. Je suis enthousiaste à l’idée de vous présenter mon bilan pour cette deuxième année universitaire.
+
+
+# Projets
+Les projets universitaires découverts l’année dernière sont une partie intégrante et majeure d’un Bachelor Universitaire de Technologie. Cette année, nous avons encore fait face à divers sujets individuels ou de groupe. Ceux-ci nous ont encore permis d’améliorer notre communication, organisation, et nos compétences liés aux thèmes des projets.
+Le projet qui m’a le plus marqué cette année fut la SAE Besoins du territoire. Ici, nous avions comme objectif avec un camarade de donner des cours sur les suites mathématiques à des élèves de terminale générale au Lycée Jean Macé à Niort. Cela a été pour nous une expérience très enrichissante. En effet, l’IUT nous a offert la chance de participer à une activité unique où nous avons découvert les coulisses d’un métier connu de tous : Professeurs. Nous avons préparé nos supports et donner cours à une classe de 35 élèves. Cela n’a pas été une tâche facile puisqu’il nous as fallu un travail de recherche, de préparation mais également de gestion des émotions pour ma part. De plus, les élèves provenant de diverses spécialités différentes, le fait de pouvoir intéresser tout le monde fut une étape complexe qui nous semble réussi. En effet, le professeur en charge de nous observer a souligné que nous avons réalisé la meilleure production depuis que le projet existe et j’ai obtenu la note de 17,5/20.
+​Contrairement à l’année passée, aucun projet ne m’a déplu même si j’ai ressenti une légère déception lorsque j’ai reçu la note pour le projet Intégration de données dans un Datawarehouse. Effectivement, c’est un projet sur lequel nous avons passé une semaine et le résultat n’était pas au niveau de notre temps de travail.
+Pour ce qui est du reste des projets, ceux-ci étaient pour la grande majorité a réalisé en groupe et se sont plutôt bien déroulés dans l’ensemble.
+
+
+# Motivation et travail
+Ayant eu des résultats satisfaisants lors de ma première année, j’avais pour objectif de maintenir la barre au même échelon pour les semestres 3 et 4.
+J’avais également hâte de découvrir les nouveautés liées au parcours EMS (Exploration et Modélisation Statistique). J’ai choisi ce parcours puisque certaines notions comme le Big Data et l’IA sont plus présentes au programme d’EMS que VCOD (visualisation, conception d'outils décisionnels). De plus, j’ai toujours eu plus de facilités avec les maths qu’avec la programmation.
+Cette année, les cours étaient variés ce qui nous as permis de ne pas tomber dans la redondance et cela a joué pour la conservation d’une certaine motivation.
+Pour ce qui est de la charge de travail au cours de cette année, cela m’a semblé plus intense qu’en première année, notamment au cours du 3ème semestre. Cependant les professeurs nous ont prévenu et nous avons pu nous organiser de sorte à ne pas nous sentir surchargés. Le 4ème semestre a lui été beaucoup plus calme ce qui nous as permis de nous consacrés à la recherche du stage. Cela a peut-être également joué dans ma légère baisse de motivation qui se reflète au niveau des dernières notes.
+
+# Résultats
+Ensuite, au niveau des résultats, cela semble assez similaire aux deux premiers semestres d’un point de vue de la moyenne générale. Cependant, si l’on regarde les notes d’un peu plus près, ce n’est pas tout à fait identique.
+En effet, on peut voir que mes résultats dans le bloc info ont augmenté par rapport à l'année dernière. J'ai voulu obtenir de bons résultats dedans puisqu'il était mon point faible. Cependant, on observe que mes résultats en maths ont diminué. Cela est sûrement dû à un surplus de confiance, je ne suis pas satisfait et j'essaierai de faire mieux aux semestres qui suivent. Globalement je suis tout de même plutôt satisfait de mes résultats même si j'aurais pu m'impliquer plus notamment à la fin du S4.
+
+# La suite
+Après cette deuxième année de complétée, j'ai pu apprendre comment les données étaient utilisés dans le monde professionnel et comment celui-ci se présentait. Je suis satisfait de mon choix de parcours et de mon stage. Je continuerai l'année prochaine au sein de GÉRÉDIS mais cette fois ci en tant qu'alternant. Pour ce qui est de l'après BUT, je pense continuer mes études, seulement je n'ai pas encore d'idée précise de diplôme vers lequel m'orienter. 
